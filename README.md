@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst & Developer
 ------------------------
 
-I am passionate about learning and solving problems
+I am passionate about learning and solving problems. I am always learning.
 
 *   🌍  I'm based in Shanghai
 *   ✉️  You can contact me at [zhiyueli.education@gmail.com](mailto:zhiyueli.education@gmail.com)
