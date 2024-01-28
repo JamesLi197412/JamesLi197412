@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is James Li
 ================================================================================================================================
 
-Data Analyst & Developer
+Data Analyst & Data Scientist * Developer
 ------------------------
 
-I am passionate about learning and solving problems. I am always learning.
+I am passionate about learning new things and solving problems. I strongly believe in "Learning by Doing". I am always learning.
 
 *   🌍  I'm based in Shanghai
 *   ✉️  You can contact me at [zhiyueli.education@gmail.com](mailto:zhiyueli.education@gmail.com)
